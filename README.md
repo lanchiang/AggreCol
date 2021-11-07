@@ -1,2 +1,2 @@
-# aggregation-detection
-Detecting aggregation cells in verbose CSV files.
+# AggreCol
+Algorithm to detect aggregations in verbose CSV files.
